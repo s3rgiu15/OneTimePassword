@@ -1,0 +1,16 @@
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.UnitTests.deps.json
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.UnitTests.dll
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.UnitTests.pdb
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.Business.dll
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.DataAccess.dll
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.Models.dll
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.Business.pdb
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.DataAccess.pdb
+C:\Development\OneTimePassword\OTP.UnitTests\bin\Debug\netstandard2.1\OTP.Models.pdb
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.csprojAssemblyReference.cache
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.AssemblyInfoInputs.cache
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.AssemblyInfo.cs
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.csproj.CoreCompileInputs.cache
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.csproj.CopyComplete
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.dll
+C:\Development\OneTimePassword\OTP.UnitTests\obj\Debug\netstandard2.1\OTP.UnitTests.pdb

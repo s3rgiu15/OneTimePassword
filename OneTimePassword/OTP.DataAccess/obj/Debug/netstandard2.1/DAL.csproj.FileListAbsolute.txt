@@ -1,0 +1,12 @@
+C:\Development\OneTimePassword\DAL\bin\Debug\netstandard2.1\DAL.deps.json
+C:\Development\OneTimePassword\DAL\bin\Debug\netstandard2.1\DAL.dll
+C:\Development\OneTimePassword\DAL\bin\Debug\netstandard2.1\DAL.pdb
+C:\Development\OneTimePassword\DAL\bin\Debug\netstandard2.1\Models.dll
+C:\Development\OneTimePassword\DAL\bin\Debug\netstandard2.1\Models.pdb
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.csprojAssemblyReference.cache
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfoInputs.cache
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.AssemblyInfo.cs
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.csproj.CopyComplete
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.dll
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.pdb
+C:\Development\OneTimePassword\DAL\obj\Debug\netstandard2.1\DAL.csproj.CoreCompileInputs.cache

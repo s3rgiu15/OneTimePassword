@@ -1,0 +1,14 @@
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\Business.deps.json
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\Business.dll
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\Business.pdb
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\DAL.dll
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\Models.dll
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\DAL.pdb
+C:\Development\OneTimePassword\Business\bin\Debug\netstandard2.1\Models.pdb
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.csprojAssemblyReference.cache
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.AssemblyInfoInputs.cache
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.AssemblyInfo.cs
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.csproj.CopyComplete
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.dll
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.pdb
+C:\Development\OneTimePassword\Business\obj\Debug\netstandard2.1\Business.csproj.CoreCompileInputs.cache
